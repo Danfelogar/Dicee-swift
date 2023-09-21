@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    //IBOutlet allows me to reference a UI element
+    //IBOutlet allows me to reference a UI element!
     @IBOutlet weak var diceOneImageView: UIImageView!
     @IBOutlet weak var diceTwoImageView: UIImageView!
 
